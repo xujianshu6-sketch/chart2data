@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+  <a href="https://chart2data.vercel.app"><img src="https://img.shields.io/badge/Live-chart2data.vercel.app-58a6ff?style=flat-square" alt="Live Demo"></a>
+  <a href="https://github.com/xujianshu6-sketch/chart2data"><img src="https://img.shields.io/badge/GitHub-xujianshu6--sketch/chart2data-333?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
+</p>
+
+<p align="center">
   <a href="#-功能亮点"><strong>功能</strong></a> ·
   <a href="#-快速开始"><strong>使用</strong></a> ·
   <a href="#-技术架构"><strong>技术</strong></a> ·
@@ -105,7 +111,7 @@
 
 ### 在线使用
 
-访问 **[在线地址](#)** 即可直接使用。不需要安装、注册或登录。
+访问 **[chart2data.vercel.app](https://chart2data.vercel.app)** 即可直接使用。不需要安装、注册或登录。
 
 ### 本地运行
 
